@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`when applied with option matches snapshot for \`cssPreprocessor\` 1`] = `""`;
+
+exports[`when applied with option matches snapshot for \`entry\` and \`asset\` 1`] = `""`;
